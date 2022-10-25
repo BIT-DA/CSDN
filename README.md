@@ -4,7 +4,7 @@
 
 Shuang Li, Kaixiong Gong, et al.
 
-IEEE Transaction on Cybernetics (TCYB), 2022.  [[pdf](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=kBVshUUAAAAJ&citation_for_view=kBVshUUAAAAJ:Se3iqnhoufwC)]
+IEEE Transaction on Cybernetics (TCYB), 2022.  [[pdf](https://ieeexplore.ieee.org/abstract/document/9756672/)]
  
 </div>
  
