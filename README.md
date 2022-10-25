@@ -25,6 +25,6 @@ This repository contains the code of our IEEE TCYB 2021 paper "Critical Classes 
 Train the method using the script:
 
 ```
-sh scrips/office-31.sh
+sh scripts/office-31.sh
 ```
 and you can alter the source & target list paths to specify the task for experiment.
