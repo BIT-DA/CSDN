@@ -19,3 +19,11 @@ This repository contains the code of our IEEE TCYB 2021 paper "Critical Classes 
 - argparse
 - numpy
 - tensorboardX
+
+## Getting Started
+
+Train the method using the script:
+
+```
+sh scrips/office-31.sh
+```
