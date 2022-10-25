@@ -8,4 +8,4 @@ IEEE Transaction on Cybernetics (TCYB), 2022.  [[pdf](https://scholar.google.com
  
 </div>
  
-This repository contains the code of our TCYB 2021 paper "Critical Classes and Samples Discovering for Partial Domain Adaptation".
+This repository contains the code of our IEEE TCYB 2021 paper "Critical Classes and Samples Discovering for Partial Domain Adaptation".
